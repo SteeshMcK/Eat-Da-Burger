@@ -1,0 +1,1 @@
+var ormReq = require('../config/orm.js');
