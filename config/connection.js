@@ -15,4 +15,4 @@ connection.connect(function(err) {
 
 
 //EXPORT CONNECTION
-module.export = connection;
+module.exports = connection;
