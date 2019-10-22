@@ -6,13 +6,13 @@
 ![](/images/burger1.png)
 
 2. Type in the name of the new burger and click *submit*.
-![](/images/burger2.jpg)
+![](/images/burger2.png)
 
 3. The name of the new burger appears in bold, colorful letters! To devour the burger, click the *devour* button located directly below the burger.
-![](/images/burger3.jpg)
+![](/images/burger3.png)
 
 4. After *devour* is clicked, it appears as next in the line of numbered buttons of devoured burgers. YUM!
-![](/images/burger4.jpg)
+![](/images/burger4.png)
 
 # Link
 https://hidden-reef-40138.herokuapp.com/
